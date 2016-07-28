@@ -1,0 +1,6 @@
+framework module CFMultipleControllerView {
+  umbrella header "CFMultipleControllerView.h"
+
+  export *
+  module * { export * }
+}
